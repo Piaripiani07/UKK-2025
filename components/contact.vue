@@ -16,16 +16,6 @@
           </p>
         </div>
 
-        <!-- Media Sosial -->
-        <div class="col-md-4 mb-3">
-          <h5>Media Sosial</h5>
-          <ul class="list-unstyled">
-            <li><i class="bi bi-facebook"></i> Facebook</li>
-            <li><i class="bi bi-twitter"></i> Twitter</li>
-            <li><i class="bi bi-instagram"></i> Instagram</li>
-          </ul>
-        </div>
-
         <!-- Link Eksternal -->
         <div class="col-md-4 mb-3">
           <h5>Link Eksternal</h5>
